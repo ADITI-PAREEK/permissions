@@ -7,5 +7,6 @@ This bash script iterates through each item in the  /etc directory, checks if it
    
    chmod +x peretc.sh
 
-   # Run the script
-   ./peretc.sh
+   # Run the script :```bash
+
+                     ./peretc.sh
