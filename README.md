@@ -4,6 +4,7 @@ This bash script iterates through each item in the  /etc directory, checks if it
 ## Usage 
 1. Clone or download the script file `peretc.sh`.
 2. Make the script executable by running : ```bash
+   
    chmod +x peretc.sh
 
    # Run the script
